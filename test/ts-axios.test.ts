@@ -5,7 +5,7 @@ import DummyClass from '../src/ts-axios'
  */
 describe('Dummy test', () => {
   it('works if true is truthy', () => {
-    expect(true).toBeTruthy()
+    expect(true).toBeTruthy();
   })
 
   it('DummyClass is instantiable', () => {
